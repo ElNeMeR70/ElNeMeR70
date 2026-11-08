@@ -1,0 +1,56 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId">
+  <title id="titleId">Eng. Mahmoud Bek ElNemer's GitHub Stats, Rank: S+</title>
+  <style>
+    .header { font: 700 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38BDF8; }
+    .stat { font: 600 13.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .val { font: 800 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .rank-text { font: 800 26px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38BDF8; }
+    .rank-sub { font: 700 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #10B981; }
+  </style>
+  <rect x="0.75" y="0.75" rx="6" height="193.5" width="493.5" fill="#1a1b27" stroke="#0284C7" stroke-width="1.5"/>
+
+  <g transform="translate(25, 34)">
+    <text x="0" y="0" class="header">Eng. Mahmoud Bek ElNemer's GitHub Stats</text>
+  </g>
+
+  <g transform="translate(25, 58)">
+    <!-- Row 1 -->
+    <g transform="translate(0, 0)">
+      <circle cx="8" cy="11" r="5" fill="#10B981"/>
+      <text x="24" y="15" class="stat">Public Repositories:</text>
+      <text x="215" y="15" class="val">3,634+</text>
+    </g>
+    <!-- Row 2 -->
+    <g transform="translate(0, 27)">
+      <circle cx="8" cy="11" r="5" fill="#38BDF8"/>
+      <text x="24" y="15" class="stat">Total Contributions (2021–2026):</text>
+      <text x="215" y="15" class="val">347+</text>
+    </g>
+    <!-- Row 3 -->
+    <g transform="translate(0, 54)">
+      <circle cx="8" cy="11" r="5" fill="#10B981"/>
+      <text x="24" y="15" class="stat">Published Volumes (78 Langs):</text>
+      <text x="215" y="15" class="val">5,000,000</text>
+    </g>
+    <!-- Row 4 -->
+    <g transform="translate(0, 81)">
+      <circle cx="8" cy="11" r="5" fill="#38BDF8"/>
+      <text x="24" y="15" class="stat">Total Encyclopedia Pages:</text>
+      <text x="215" y="15" class="val">1,000,000,000</text>
+    </g>
+    <!-- Row 5 -->
+    <g transform="translate(0, 108)">
+      <circle cx="8" cy="11" r="5" fill="#10B981"/>
+      <text x="24" y="15" class="stat">Google Play Books Live:</text>
+      <text x="215" y="15" class="val">40,000+</text>
+    </g>
+  </g>
+
+  <!-- Rank Ring on Right -->
+  <g transform="translate(405, 108)">
+    <circle cx="0" cy="0" r="44" stroke="#1e293b" stroke-width="6" fill="none"/>
+    <circle cx="0" cy="0" r="44" stroke="#10B981" stroke-width="6" stroke-dasharray="255 280" stroke-linecap="round" fill="none" transform="rotate(-90)"/>
+    <text x="0" y="6" text-anchor="middle" class="rank-text">S+</text>
+    <text x="0" y="24" text-anchor="middle" class="rank-sub">GLOBAL TIER</text>
+  </g>
+</svg>

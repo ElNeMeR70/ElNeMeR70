@@ -1,0 +1,66 @@
+<svg width="460" height="175" viewBox="0 0 460 175" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langTitle">
+  <title id="langTitle">Most Used Languages — Eng. Mahmoud Bek ElNemer</title>
+  <style>
+    .header { font: 700 16.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38BDF8; }
+    .lang-name { font: 600 12.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .lang-pct { font: 700 12.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+  </style>
+  <rect x="0.75" y="0.75" rx="6" height="173.5" width="458.5" fill="#1a1b27" stroke="#0284C7" stroke-width="1.5"/>
+
+  <g transform="translate(25, 32)">
+    <text x="0" y="0" class="header">Most Used Languages (3,634+ Repositories)</text>
+  </g>
+
+  <!-- Stacked Language Progress Bar -->
+  <g transform="translate(25, 48)">
+    <clipPath id="barClip">
+      <rect x="0" y="0" width="410" height="10" rx="5"/>
+    </clipPath>
+    <g clip-path="url(#barClip)">
+      <rect x="0" y="0" width="135" height="10" fill="#3572A5"/>
+      <rect x="135" y="0" width="90" height="10" fill="#4F5D95"/>
+      <rect x="225" y="0" width="70" height="10" fill="#3178C6"/>
+      <rect x="295" y="0" width="50" height="10" fill="#f1e05a"/>
+      <rect x="345" y="0" width="35" height="10" fill="#f34b7d"/>
+      <rect x="380" y="0" width="30" height="10" fill="#00ADD8"/>
+    </g>
+  </g>
+
+  <!-- Left Column -->
+  <g transform="translate(25, 82)">
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="-4" r="5" fill="#3572A5"/>
+      <text x="18" y="0" class="lang-name">Python 3.12+</text>
+      <text x="132" y="0" class="lang-pct">33.0%</text>
+    </g>
+    <g transform="translate(0, 28)">
+      <circle cx="6" cy="-4" r="5" fill="#3178C6"/>
+      <text x="18" y="0" class="lang-name">TypeScript</text>
+      <text x="132" y="0" class="lang-pct">17.1%</text>
+    </g>
+    <g transform="translate(0, 56)">
+      <circle cx="6" cy="-4" r="5" fill="#f34b7d"/>
+      <text x="18" y="0" class="lang-name">C++ / Rust</text>
+      <text x="132" y="0" class="lang-pct">8.5%</text>
+    </g>
+  </g>
+
+  <!-- Right Column -->
+  <g transform="translate(240, 82)">
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="-4" r="5" fill="#4F5D95"/>
+      <text x="18" y="0" class="lang-name">PHP 8.x</text>
+      <text x="132" y="0" class="lang-pct">22.0%</text>
+    </g>
+    <g transform="translate(0, 28)">
+      <circle cx="6" cy="-4" r="5" fill="#f1e05a"/>
+      <text x="18" y="0" class="lang-name">JavaScript (ESNext)</text>
+      <text x="132" y="0" class="lang-pct">12.2%</text>
+    </g>
+    <g transform="translate(0, 56)">
+      <circle cx="6" cy="-4" r="5" fill="#00ADD8"/>
+      <text x="18" y="0" class="lang-name">Go &amp; SQL Kernels</text>
+      <text x="132" y="0" class="lang-pct">7.2%</text>
+    </g>
+  </g>
+</svg>

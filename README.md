@@ -65,8 +65,8 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 
 | المبدأ الهندسي / Core Principle | التطبيق العملي في منظومة النمر / Implementation Across the Ecosystem |
 | :--- | :--- |
-| **1. السيادة والاعتماد الذاتي**<br>*Technological Sovereignty* | بناء المحركات والخوارزميات ومولدات الـ PDF التفاعلية من الصفر بهندسة ذاتية مستقلة تعمل بأقصى درجات الاستقرار والاعتمادية. |
-| **2. الاستجابة اللحظية `O(1)`**<br>*Zero-Latency Edge Streaming* | معالجة وتوليد كل مجلد (200 صفحة) وكل شهادة توثيق في الذاكرة الحية في أجزاء من الثانية عبر السحابة السيادية لدار النمر (`Nemer Sovereign Edge Cloud`). |
+| **1. السيادة والاعتماد الذاتي**<br>*Technological Sovereignty* | بناء المحركات والخوارزميات وأنظمة الفهرسة والقراءة التفاعلية من الصفر بهندسة ذاتية مستقلة تعمل بأقصى درجات الاستقرار والاعتمادية. |
+| **2. الاستجابة اللحظية `O(1)`**<br>*Zero-Latency Archival Delivery* | إتاحة وتصفح وفحص كل مجلد منشور (200 صفحة) وكل شهادة توثيق رقمية في أجزاء من الثانية عبر السحابة السيادية لدار النمر (`Nemer Sovereign Edge Cloud`). |
 | **3. البرهان الرياضي والتشفيري**<br>*Cryptographic Verifiability* | كل كتاب وكل سجل مدعوم ببصمة `SHA-256` مزدوجة ومسار إثبات رياضي من 23 مستوى يمكن لأي فاحص أو باحث التحقق منه حياً في المتصفح. |
 
 ---
@@ -159,13 +159,13 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 </table>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ElNeMeR70&show_icons=true&theme=tokyonight&hide_border=false&border_color=0284C7&title_color=38BDF8&icon_color=10B981" alt="Eng. Mahmoud Bek ElNemer GitHub Stats" />
+  <img height="175" src="https://raw.githubusercontent.com/ElNeMeR70/ElNeMeR70/main/assets/github-stats.svg" alt="Eng. Mahmoud Bek ElNemer GitHub Stats" />
   &nbsp;&nbsp;
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ElNeMeR70&theme=tokyonight&hide_border=false&border=0284C7&stroke=0284C7&ring=10B981&fire=38BDF8" alt="Eng. Mahmoud Bek ElNemer GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElNeMeR70&layout=compact&theme=tokyonight&hide_border=false&border_color=0284C7&title_color=38BDF8" alt="Top Languages" />
+  <img height="165" src="https://raw.githubusercontent.com/ElNeMeR70/ElNeMeR70/main/assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ---
@@ -187,8 +187,8 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 
 | المجال الهندسي / Engineering Domain | التقنيات والأطر البرمجية السيادية / Sovereign Technologies & Frameworks |
 | :--- | :--- |
-| **الذكاء الاصطناعي والسيادة المعرفية**<br>*AI & Knowledge Synthesis* | Google Gemini API, Autonomous Multi-Agent Workflows, Neural Curriculum Synthesis, Arabic NLP Pipelines, Lexical Uniqueness Verification |
-| **البنية السحابية والبث اللحظي**<br>*Sovereign Cloud & Streaming* | Nemer Sovereign Edge Cloud, Sovereign Object Storage Cluster, LiteSpeed Enterprise, FastCGI, Zero-Allocation In-Memory PDF Streaming |
+| **الذكاء الاصطناعي والسيادة المعرفية**<br>*AI & Knowledge Architecture* | Google Gemini API, Autonomous Multi-Agent Workflows, Multilingual Academic Indexing, Arabic NLP Pipelines, Lexical Uniqueness Verification |
+| **البنية السحابية والإتاحة الفورية**<br>*Sovereign Cloud & Archival Delivery* | Nemer Sovereign Edge Cloud, Sovereign Object Storage Cluster, LiteSpeed Enterprise, FastCGI, High-Throughput Archival PDF Delivery |
 | **لغات البرمجة والأنظمة**<br>*Programming Languages* | Python 3.12+, PHP 8.x, TypeScript, Modern JavaScript (ESNext), Node.js, Rust, Go, C++, C#, PowerShell, Bash |
 | **التوثيق التشفيري والنظم الببليوغرافية**<br>*Cryptography & Bibliographics* | Dual SHA-256 (Binary + Metadata), 23-Level Binary Merkle Trees, GS1/EAN-13 Vector Barcodes, OAI-PMH 2.0, Highwire Press & Schema.org |
 | **هندسة الواجهات وتجربة المستخدم**<br>*UI/UX Architecture* | Royal Sapphire, Ocean Cyan & Academic Emerald Design System, Bilingual RTL/LTR Adaptive Typography, Accessible Responsive Web Portals |
