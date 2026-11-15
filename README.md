@@ -135,6 +135,18 @@ What seemed unimaginable to traditional publishing houses became a verified engi
       <p>👉 <a href="https://github.com/ElNeMeR70?tab=repositories">استعراض المستودعات (Repositories)</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚡ <a href="https://sqo.elnemer-ai.com">منظومة Smart Quota &amp; Superpowers OS v13.0 (Autonomous AI Engineering OS)</a></h3>
+      <p><b>نظام التشغيل الهندسي الذاتي لوكلاء البرمجة بالذكاء الاصطناعي (53 أداة MCP صفرية الاعتماديات — Zero Dependencies):</b></p>
+      <ul>
+        <li><b>جدار ناري فوري للتوكنز (<code>&lt;15ms</code>):</b> يضاعف كوتا Claude Code وCursor وAntigravity من 10 إلى 25 ضعفاً (توفير <b>96.8%</b> إدخال و<b>85%</b> إخراج بالتعديل الجراحي <code>AST</code> وحماية خصم <code>KV-Cache 90%</code>).</li>
+        <li><b>درع مراجعة الكود ذو الـ 8 بوابات (<code>PR Shield</code>) وحارس الفواتير السحابية (<code>Cloud FinOps</code>):</b> كشف فوري لثغرات <code>OWASP SAST</code>، حلقات الاستدعاء المكلفة بالدولار/ساعة، استعلامات <code>N+1</code>، سباقات <code>TOCTOU</code>، وأخطاء واجهات <code>RTL</code>.</li>
+        <li><b>التشغيل الذاتي بأمر واحد (<code>sqo autopilot</code>):</b> استخراج البصمة الوراثية للمستودع (<code>Repo-DNA</code>)، توليد دساتير <code>CLAUDE.md</code> و<code>AGENTS.md</code> تلقائياً، ورسم خرائط المعمارية التفاعلية <code>Mermaid</code>.</li>
+      </ul>
+      <p>👉 <a href="https://sqo.elnemer-ai.com">sqo.elnemer-ai.com (المنصة السحابية الحية)</a> | <a href="https://github.com/ElNeMeR70/smart-quota-orchestrator">GitHub Repo (v13.0 Zenith)</a></p>
+    </td>
+  </tr>
 </table>
 
 ---
