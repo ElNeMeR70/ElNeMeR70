@@ -57,7 +57,7 @@ Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of 
 
 | المجموعة الموسوعية / Collection | نطاق المعرفات / GID Range | الهيكلة العلمية / Taxonomy | حجم الإنتاج / Scale | الجذر التشفيري المعتمد / Verified Merkle Root | الرابط المباشر / Direct Portal |
 | :--- | :---: | :---: | :---: | :--- | :---: |
-| **1️⃣ الموسوعة الأساسية للمعرفة التطبيقية**<br>*General Applied Knowledge Core* | `GID #1`<br>إلى<br>`#5,000,000` | `50` قطاعاً<br>`1,000` تخصص | **`5,000,000` كتاب**<br>**`1,000,000,000` صفحة** | `23-Level Merkle Root:`<br>`72806865ca4d56a0b03ad7e925ba6e7ccab8f537c016ec6214be2149e0c896d9` | [تصفح الموسوعة العامة](https://million.elnemer-ai.com/?collection=general) |
+| **1️⃣ الموسوعة الأساسية للمعرفة التطبيقية**<br>*General Applied Knowledge Core* | `GID #1`<br>إلى<br>`#7,000,000` | `50` قطاعاً<br>`1,000` تخصص | **`7,000,000` كتاب**<br>**`1,400,000,000` صفحة** | `23-Level Merkle Root:`<br>`72806865ca4d56a0b03ad7e925ba6e7ccab8f537c016ec6214be2149e0c896d9` | [تصفح الموسوعة العامة](https://million.elnemer-ai.com/?collection=general) |
 | **2️⃣ الموسوعة السحابية للذكاء الاصطناعي**<br>*Artificial Intelligence Cloud Encyclopedia* | `GID #5,000,001`<br>إلى<br>`#6,000,000` | `10` قطاعات<br>`200` تخصص | **`1,000,000` كتاب**<br>**`200,000,000` صفحة** | `20-Level AI Merkle Root:`<br>`a19f4e82c7d031b5e64a928f1c3b7d5e8042f9a1c6b3d8e5f7012a4c9e6b8d31` | [تصفح موسوعة الذكاء الاصطناعي](https://million.elnemer-ai.com/?collection=ai) |
 | **3️⃣ موسوعة الفراعنة وحضارة مصر القديمة**<br>*Pharaohs & Ancient Egypt Encyclopedia* | `GID #6,000,001`<br>إلى<br>`#7,000,000` | `10` قطاعات<br>`200` تخصص | **`1,000,000` كتاب**<br>**`200,000,000` صفحة** | `20-Level Pharaohs Merkle Root:`<br>`f47c9b20e5d183a6c940e2f7b1d8a3c5e904f2b7d1c6a8e3f5092b4d7c1e8a64` | [تصفح موسوعة الفراعنة](https://million.elnemer-ai.com/?collection=pharaohs) |
 | **👑 الإجمالي السيادي للمشروع (Grand Total)** | **`#1 – #7,000,000`** | **`70` قطاعاً / `1,400` تخصص** | **`7,000,000` كتاب**<br>**`1,400,000,000` صفحة** | **توثيق مزدوج `Dual SHA-256` بـ `78` لغة عالمية** | [**million.elnemer-ai.com**](https://million.elnemer-ai.com) |
@@ -70,7 +70,7 @@ Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of 
 | :--- | :--- | :--- |
 | **🏛️ البوابة التعريفية الرسمية للموسوعة**<br>*Official Encyclopedia Overview Portal* | [encyclopedia.elnemer-ai.com](https://encyclopedia.elnemer-ai.com) | الواجهة التعريفية الموحدة ثنائية اللغة لمشروع الـ 7 ملايين كتاب (1.4 مليار صفحة)، مع روابط المجموعات الثلاث، المعرفات الأكاديمية `DOI`، وجذور `Merkle` التشفيرية. |
 | **🔭 المرصد الرئيسي ومحرك الفهرسة والقراءة الحية**<br>*Main Encyclopedia Observatory & Reader* | [million.elnemer-ai.com](https://million.elnemer-ai.com) | محرك البحث والفهرسة اللحظية `O(1)` لتصفح وقراءة وتحميل ملايين المجلدات بـ `78` لغة وفحص البطاقات الببليوغرافية مباشرة في المتصفح. |
-| **📘 بوابة الموسوعة الأساسية الشاملة (`5M Books`)**<br>*General Applied Knowledge Portal* | [million.elnemer-ai.com/?collection=general](https://million.elnemer-ai.com/?collection=general) | تصفح `5,000,000` مجلد (`1,000,000,000` صفحة) موزعة على `50` قطاعاً و`1,000` تخصص تطبيقي في الصحة، الأسرة، الحرف، البرمجة، والعلوم. |
+| **📘 بوابة الموسوعة الأساسية الشاملة (`5M Books`)**<br>*General Applied Knowledge Portal* | [million.elnemer-ai.com/?collection=general](https://million.elnemer-ai.com/?collection=general) | تصفح `7,000,000` مجلد (`1,400,000,000` صفحة) موزعة على `50` قطاعاً و`1,000` تخصص تطبيقي في الصحة، الأسرة، الحرف، البرمجة، والعلوم. |
 | **🤖 بوابة موسوعة الذكاء الاصطناعي (`1M Books`)**<br>*AI Cloud Encyclopedia Portal* | [million.elnemer-ai.com/?collection=ai](https://million.elnemer-ai.com/?collection=ai) | تصفح `1,000,000` مجلد (`200,000,000` صفحة) متخصصة بالكامل في هندسة الذكاء الاصطناعي، النماذج اللغوية، الوكلاء المستقلين، والتعلم العميق (`200` تخصص دقيق). |
 | **🏺 بوابة موسوعة الفراعنة ومصر القديمة (`1M Books`)**<br>*Pharaohs & Ancient Egypt Portal* | [million.elnemer-ai.com/?collection=pharaohs](https://million.elnemer-ai.com/?collection=pharaohs) | تصفح `1,000,000` مجلد (`200,000,000` صفحة) توثق تاريخ وآثار وعلوم وهندسة ولغة حضارة مصر القديمة عبر الأسرات الفرعونية (`200` تخصص أثري وتاريخي). |
 | **🏆 ملف التوثيق القياسي العالمي (غينيس)**<br>*Official Guinness World Record Dossier* | [million.elnemer-ai.com/guinness](https://million.elnemer-ai.com/guinness) | الملف التوثيقي الهندسي والقانوني الكامل لإثبات الأرقام القياسية للموسوعة ومنهجية الإنتاج والتدقيق التحريري والتشفيري. |
@@ -105,17 +105,17 @@ My journey in computing began in Fayoum, Egypt, not merely as a coder writing li
 ### 🏛️ الفصل الثاني: ملحمة الـ 7 ملايين كتاب بـ 78 لغة | Chapter II: Engineering the 7,000,000-Volume Global Encyclopedia
 
 **🇸🇦 بالعربية:**  
-كانت الفكرة تبدو مستحيلة لأي دار نشر تقليدية في العالم: **كيف يمكن لمؤلف ومهندس واحد أن يؤسس ويهندس موسوعة علمية وتطبيقية شاملة تتكون من `5,000,000` كتاب تطبيقي أساسي ثم تتوسع بمليوني كتاب تخصصي في الذكاء الاصطناعي وحضارة مصر القديمة لتصل إلى `7,000,000` مجلد بـ `78` لغة عالمية وبإجمالي `1,400,000,000` صفحة؟**
+كانت الفكرة تبدو مستحيلة لأي دار نشر تقليدية في العالم: **كيف يمكن لمؤلف ومهندس واحد أن يؤسس ويهندس موسوعة علمية وتطبيقية شاملة تتكون من `7,000,000` كتاب تطبيقي أساسي ثم تتوسع بمليوني كتاب تخصصي في الذكاء الاصطناعي وحضارة مصر القديمة لتصل إلى `7,000,000` مجلد بـ `78` لغة عالمية وبإجمالي `1,400,000,000` صفحة؟**
 
 بجهد ذهني وهندسي استثنائي، تم بناء **«موسوعة النمر العالمية»** ([encyclopedia.elnemer-ai.com](https://encyclopedia.elnemer-ai.com) · [million.elnemer-ai.com](https://million.elnemer-ai.com)) على 4 ركائز منهجية صارمة:
 1. **الخريطة المعرفية النافعة للإنسان (`70 قطاعاً × 20 تخصصاً = 1,400 تخصص دقيق`):** تضم `1,000` تخصص في الموسوعة العامة (الصحة والطب الوقائي، الأسرة والتربية، المهارات المهنية وريادة الأعمال، البرمجة والأمن السيبراني، والزراعة المستدامة والطاقة المتجددة) + `200` تخصص في الذكاء الاصطناعي + `200` تخصص في علوم وآثار الفراعنة ومصر القديمة.
 2. **ميثاق النفع الإنساني الخالص:** خلو كامل من السياسة والصراعات ومن أي محتوى ضار بالإنسان (قائمة فلترة آلية وتحريرية تضم `1,240` مصطلحاً محظوراً)، مع ربط كل `78` نسخة مترجمة بمعرّف عمل موحد (`Unified Work ID: NEMER-WORK-#XXXXXX`) لضمان تطابق الموضوع والفصول العشرة عبر جميع اللغات.
-3. **التوثيق التشفيري المزدوج (`Dual SHA-256 & Binary Merkle Trees`):** فصل دقيق بين بصمة بايتات ملف الـ PDF النهائي (`PDF Binary SHA-256`) وبصمة سجل البيانات الوصفية (`Metadata Record SHA-256`)، مع ربط المجلدات بشجرات ميركل ثنائية (`23-Level Merkle Root` للموسوعة الخمسة ملايين + `20-Level Merkle Roots` لمجموعتي الذكاء الاصطناعي والفراعنة).
+3. **التوثيق التشفيري المزدوج (`Dual SHA-256 & Binary Merkle Trees`):** فصل دقيق بين بصمة بايتات ملف الـ PDF النهائي (`PDF Binary SHA-256`) وبصمة سجل البيانات الوصفية (`Metadata Record SHA-256`)، مع ربط المجلدات بشجرات ميركل ثنائية (`23-Level Merkle Root` للموسوعة السبعة ملايين + `20-Level Merkle Roots` لمجموعتي الذكاء الاصطناعي والفراعنة).
 4. **الإتاحة المجانية المفتوحة للبشرية:** إتاحة القراءة الكاملة وتحميل ملفات الـ PDF (`200` صفحة لكل كتاب) مجاناً (`$0.00`) عبر البوابة للباحثين والطلاب والقراء في كل مكان.
 
 **🇬🇧 In English:**  
 What seemed unimaginable to traditional publishing houses became a verified engineering reality: **The El-Nemr Global Encyclopedia (`7,000,000 Volumes × 200 Pages = 1,400,000,000 Pages`)** across **78 global languages**:
-1. **1,400 Specialized Disciplines across 70 Mega-Sectors:** `5,000,000` core human-benefit volumes (`1,000` disciplines) + `1,000,000` Artificial Intelligence volumes (`200` disciplines) + `1,000,000` Pharaohs & Ancient Egypt volumes (`200` disciplines).
+1. **1,400 Specialized Disciplines across 70 Mega-Sectors:** `7,000,000` core human-benefit volumes (`1,000` disciplines) + `1,000,000` Artificial Intelligence volumes (`200` disciplines) + `1,000,000` Pharaohs & Ancient Egypt volumes (`200` disciplines).
 2. **Unified Multilingual Work Architecture (`NEMER-WORK-#XXXXXX`):** Every canonical work is systematically structured across all 78 languages with 10 domain-specific chapters tailored strictly to the book's subject matter.
 3. **Dual Cryptographic Verification (`Merkle Proofs`):** Every volume provides independent verification for both its **PDF Binary File SHA-256** and its **Canonical Metadata Record SHA-256**, verifiable live at [million.elnemer-ai.com/audit/1](https://million.elnemer-ai.com/audit/1).
 
@@ -131,7 +131,7 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 
 ---
 
-## 🧭 المحاور الإنسانية الخمسة الكبرى لموسوعة المليار صفحة الأساسية + التوسعات التخصصية | Encyclopedia Taxonomy Breakdown
+## 🧭 المحاور الإنسانية الخمسة الكبرى لموسوعة الـ 1.4 مليار صفحة الأساسية + التوسعات التخصصية | Encyclopedia Taxonomy Breakdown
 
 | المحور الرئيسي / Compass Pillar & Collection | القطاعات / Sectors | التخصصات / Disciplines | عدد الكتب / Volumes | إجمالي الصفحات / Total Pages |
 | :--- | :---: | :---: | :---: | :---: |
@@ -140,7 +140,7 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 | **3️⃣ 💼 المهارات المهنية والحرف وريادة الأعمال والتجارة**<br>*Vocational Trades, Crafts, Freelancing & Entrepreneurship* | `S19 – S28`<br>*(10 قطاعات)* | `200` تخصص | **`1,000,000` كتاب** | **`200,000,000` صفحة** |
 | **4️⃣ 💻 التكنولوجيا والبرمجة والذكاء الاصطناعي والأمن السيبراني**<br>*Software Engineering, Applied AI & Cybersecurity* | `S29 – S38`<br>*(10 قطاعات)* | `200` تخصص | **`1,000,000` كتاب** | **`200,000,000` صفحة** |
 | **5️⃣ 🌱 الزراعة المستدامة والطاقة المتجددة والهندسة والعلوم**<br>*Sustainable Agriculture, Clean Energy, Civil Eng. & Sciences* | `S39 – S50`<br>*(12 قطاعاً)* | `240` تخصصاً | **`1,200,000` كتاب** | **`240,000,000` صفحة** |
-| **📘 المجموع الفرعي للموسوعة الأساسية (Core General Encyclopedia)** | **`50` قطاعاً** | **`1,000` تخصص** | **`5,000,000` كتاب** | **`1,000,000,000` (مليار صفحة)** |
+| **📘 المجموع الفرعي للموسوعة الأساسية (Core General Encyclopedia)** | **`50` قطاعاً** | **`1,000` تخصص** | **`7,000,000` كتاب** | **`1,400,000,000` (مليار صفحة)** |
 | **🤖 التوسعة التخصصية الأولى: موسوعة الذكاء الاصطناعي السحابية**<br>*Artificial Intelligence Cloud Encyclopedia (`?collection=ai`)* | `AI01 – AI10`<br>*(10 قطاعات)* | `200` تخصص | **`1,000,000` كتاب** | **`200,000,000` صفحة** |
 | **🏺 التوسعة التخصصية الثانية: موسوعة الفراعنة ومصر القديمة**<br>*Pharaohs & Ancient Egypt Encyclopedia (`?collection=pharaohs`)* | `EG01 – EG10`<br>*(10 قطاعات)* | `200` تخصص | **`1,000,000` كتاب** | **`200,000,000` صفحة** |
 | **👑 الإجمالي العالمي الشامل (Grand Sovereign Total)** | **`70` قطاعاً** | **`1,400` تخصص** | **`7,000,000` كتاب** | **`1,400,000,000` (1.4 مليار صفحة)** |
