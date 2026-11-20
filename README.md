@@ -1,6 +1,6 @@
-# Mahmoud El-Nemr — محمود النمر
+# Mahmoud El-Nemer — محمود النمر
 
-Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of **El-Nemr Digital Solutions**.
+Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of **El-Nemer Digital Solutions**.
 
 - 🚛 Creator of **Naqel Pro** — truck navigation (https://naqelpro.elnemer-ai.com)
 - 📱 96 apps on Google Play — https://play.google.com/store/apps/dev?id=8108140168838500094
@@ -20,7 +20,7 @@ Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of 
 
 # 🌟 المهندس محمود بك النمر | Eng. Mahmoud Bek ElNemer
 ### 🏛️ Systems & AI Architect · Founder & CEO · Author of the 1.4-Billion-Page Global Encyclopedia (`7,000,000 Volumes`)
-#### **المؤسس والرئيس التنفيذي لـ «حلول النمر الرقمية» (El-Nemr Digital Solutions) و«دار النمر للنشر العلمي والأكاديمي»**
+#### **المؤسس والرئيس التنفيذي لـ «حلول النمر الرقمية» (El-Nemer Digital Solutions) و«دار النمر للنشر العلمي والأكاديمي»**
 
 <p align="center">
   <a href="https://encyclopedia.elnemer-ai.com">
@@ -45,13 +45,13 @@ Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of 
 
 ---
 
-## 📚 مشروع موسوعة النمر العالمية وصفحاتها الرسمية | The El-Nemr Global Encyclopedia Project (`7,000,000 Books • 1.4 Billion Pages`)
+## 📚 مشروع موسوعة النمر العالمية وصفحاتها الرسمية | The El-Nemer Global Encyclopedia Project (`7,000,000 Books • 1.4 Billion Pages`)
 
 > **🇸🇦 نبذة شاملة عن مشروع الموسوعة:**  
 > يُعد مشروع **«موسوعة النمر العالمية للمعرفة التطبيقية وقواعد البيانات السحابية»** أضخم منظومة نشر علمي وتطبيقي رقمي متعدد اللغات لمؤلف ومهندس واحد على مستوى العالم، بإجمالي **`7,000,000` (سبعة ملايين) كتاب ومجلد رقمي** تضم **`1,400,000,000` (مليار وأربعمائة مليون) صفحة** (`200 صفحة معيارية لكل مجلد`) منشورة بـ **`78` لغة عالمية** تغطي `99.4%` من القراء حول العالم، ومتاحة للقراءة والتحميل المباشر بصيغة `PDF` مجاناً بالكامل (`$0.00`) لخدمة طلاب العلم والباحثين والإنسانية، مع توثيق تشفيري مزدوج (`Dual SHA-256` لملف الـ PDF ولسجل البيانات الوصفية) وشجرات ميركل رياضية (`Merkle Trees`) ومسارات تحقق علنية مستقلة مسجلة بأرقام `DOI` رسمية في **Harvard Dataverse** و**CERN Zenodo** و**DataCite**.
 >
 > **🇬🇧 Project Overview:**  
-> **The El-Nemr Global Cloud Encyclopedia** is an unprecedented, cryptographically verified multilingual knowledge architecture spanning **`7,000,000` full digital volumes (`1,400,000,000` pages at `200` pages/volume)** across **`78` global languages** (`99.4%` global readership coverage). Every volume is freely accessible (`$0.00` open access), indexed with a canonical work identifier (`NEMER-WORK-#XXXXXX`), sealed with **Dual SHA-256 hashes** (PDF Binary + Canonical Metadata), anchored in deterministic **Binary Merkle Trees**, and archived across **Harvard Dataverse**, **CERN Zenodo**, and **DataCite**.
+> **The El-Nemer Global Cloud Encyclopedia** is an unprecedented, cryptographically verified multilingual knowledge architecture spanning **`7,000,000` full digital volumes (`1,400,000,000` pages at `200` pages/volume)** across **`78` global languages** (`99.4%` global readership coverage). Every volume is freely accessible (`$0.00` open access), indexed with a canonical work identifier (`NEMER-WORK-#XXXXXX`), sealed with **Dual SHA-256 hashes** (PDF Binary + Canonical Metadata), anchored in deterministic **Binary Merkle Trees**, and archived across **Harvard Dataverse**, **CERN Zenodo**, and **DataCite**.
 
 ### 🏛️ المجموعات الثلاث الكبرى للموسوعة (`7,000,000` مجلد = `1.4 مليار` صفحة) | The 3 Sovereign Collections
 
@@ -95,10 +95,10 @@ Egyptian software engineer and Android developer from Fayoum, Egypt. Founder of 
 ### 🚀 الفصل الأول: البداية وشغف السيادة البرمجية | Chapter I: The Quest for Technological Sovereignty
 
 **🇸🇦 بالعربية:**  
-بدأت رحلتي مع عالم الحوسبة من محافظة الفيوم بمصر ليس كمجرد مبرمج يكتب أسطراً من الكود، بل كمهندس يبحث عن **«السيادة التقنية والمعرفية»**. منذ اليوم الأول، كان شغفي يتمحور حول فهم كيف تعمل الأنظمة الكبرى من الداخل: كيف تدير الخوادم ملايين الطلبات اللحظية، كيف تُبنى الخوارزميات الرياضية المعقدة، وكيف يُمكن تسخير الذكاء الاصطناعي وتطبيقات أندرويد والويب لخدمة الإنسان ووضعه في صدارة المشهد التكنولوجي العالمي. أسست **شركة حلول النمر الرقمية (El-Nemr Digital Solutions)** و**دار النمر للنشر العلمي والأكاديمي (Al-ElNeMeR Publications)** لنقدم حلولاً برمجية وحوسبية فائقة السرعة، وتطبيقات ذكية (`96` تطبيقاً على Google Play على رأسها **ناقل برو Naqel Pro** للملاحة الذكية للشاحنات)، و`1,100` أداة متصفح مجانية، ومنصات ذكاء اصطناعي وأنظمة SaaS تخدم المستخدمين والمؤسسات حول العالم.
+بدأت رحلتي مع عالم الحوسبة من محافظة الفيوم بمصر ليس كمجرد مبرمج يكتب أسطراً من الكود، بل كمهندس يبحث عن **«السيادة التقنية والمعرفية»**. منذ اليوم الأول، كان شغفي يتمحور حول فهم كيف تعمل الأنظمة الكبرى من الداخل: كيف تدير الخوادم ملايين الطلبات اللحظية، كيف تُبنى الخوارزميات الرياضية المعقدة، وكيف يُمكن تسخير الذكاء الاصطناعي وتطبيقات أندرويد والويب لخدمة الإنسان ووضعه في صدارة المشهد التكنولوجي العالمي. أسست **شركة حلول النمر الرقمية (El-Nemer Digital Solutions)** و**دار النمر للنشر العلمي والأكاديمي (Al-ElNeMeR Publications)** لنقدم حلولاً برمجية وحوسبية فائقة السرعة، وتطبيقات ذكية (`96` تطبيقاً على Google Play على رأسها **ناقل برو Naqel Pro** للملاحة الذكية للشاحنات)، و`1,100` أداة متصفح مجانية، ومنصات ذكاء اصطناعي وأنظمة SaaS تخدم المستخدمين والمؤسسات حول العالم.
 
 **🇬🇧 In English:**  
-My journey in computing began in Fayoum, Egypt, not merely as a coder writing lines of syntax, but as a systems architect pursuing **Technological and Knowledge Sovereignty**. From day one, my focus has centered on how large-scale distributed engines operate from the inside out: how high-concurrency servers handle millions of real-time requests, how deterministic mathematical algorithms are formulated, and how Artificial Intelligence and mobile computing can be harnessed for pure human benefit. As Founder & CEO of **El-Nemr Digital Solutions** and **Al-ElNeMeR Publications**, I architect ultra-fast cloud platforms, `96` Google Play Android apps (led by **Naqel Pro** truck navigation), `1,100` free browser utilities, enterprise AI systems, and sovereign publishing engines.
+My journey in computing began in Fayoum, Egypt, not merely as a coder writing lines of syntax, but as a systems architect pursuing **Technological and Knowledge Sovereignty**. From day one, my focus has centered on how large-scale distributed engines operate from the inside out: how high-concurrency servers handle millions of real-time requests, how deterministic mathematical algorithms are formulated, and how Artificial Intelligence and mobile computing can be harnessed for pure human benefit. As Founder & CEO of **El-Nemer Digital Solutions** and **Al-ElNeMeR Publications**, I architect ultra-fast cloud platforms, `96` Google Play Android apps (led by **Naqel Pro** truck navigation), `1,100` free browser utilities, enterprise AI systems, and sovereign publishing engines.
 
 ---
 
@@ -114,7 +114,7 @@ My journey in computing began in Fayoum, Egypt, not merely as a coder writing li
 4. **الإتاحة المجانية المفتوحة للبشرية:** إتاحة القراءة الكاملة وتحميل ملفات الـ PDF (`200` صفحة لكل كتاب) مجاناً (`$0.00`) عبر البوابة للباحثين والطلاب والقراء في كل مكان.
 
 **🇬🇧 In English:**  
-What seemed unimaginable to traditional publishing houses became a verified engineering reality: **The El-Nemr Global Encyclopedia (`7,000,000 Volumes × 200 Pages = 1,400,000,000 Pages`)** across **78 global languages**:
+What seemed unimaginable to traditional publishing houses became a verified engineering reality: **The El-Nemer Global Encyclopedia (`7,000,000 Volumes × 200 Pages = 1,400,000,000 Pages`)** across **78 global languages**:
 1. **1,400 Specialized Disciplines across 70 Mega-Sectors:** `7,000,000` core human-benefit volumes (`1,000` disciplines) + `1,000,000` Artificial Intelligence volumes (`200` disciplines) + `1,000,000` Pharaohs & Ancient Egypt volumes (`200` disciplines).
 2. **Unified Multilingual Work Architecture (`NEMER-WORK-#XXXXXX`):** Every canonical work is systematically structured across all 78 languages with 10 domain-specific chapters tailored strictly to the book's subject matter.
 3. **Dual Cryptographic Verification (`Merkle Proofs`):** Every volume provides independent verification for both its **PDF Binary File SHA-256** and its **Canonical Metadata Record SHA-256**, verifiable live at [million.elnemer-ai.com/audit/1](https://million.elnemer-ai.com/audit/1).
@@ -163,7 +163,7 @@ What seemed unimaginable to traditional publishing houses became a verified engi
       <p>👉 <a href="https://encyclopedia.elnemer-ai.com">encyclopedia.elnemer-ai.com</a> | <a href="https://million.elnemer-ai.com">million.elnemer-ai.com</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://elnemer-ai.com">حلول النمر الرقمية ومنظومة التطبيقات (El-Nemr Digital Solutions)</a></h3>
+      <h3>🏛️ <a href="https://elnemer-ai.com">حلول النمر الرقمية ومنظومة التطبيقات (El-Nemer Digital Solutions)</a></h3>
       <p><b>المقر السيادي للابتكار البرمجي وتطبيقات الهواتف والويب:</b></p>
       <ul>
         <li>🚛 <b><a href="https://naqelpro.elnemer-ai.com">ناقل برو (Naqel Pro)</a>:</b> منظومة الملاحة الذكية المتخصصة للشاحنات والنقل الثقيل.</li>
@@ -425,9 +425,9 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 
 <div align="center">
 
-**المهندس محمود بك النمر · Eng. Mahmoud El-Nemr**  
+**المهندس محمود بك النمر · Eng. Mahmoud El-Nemer**  
 *المؤسس والرئيس التنفيذي — شركة حلول النمر الرقمية & دار النمر للنشر العلمي والأكاديمي*  
-*Founder & CEO — El-Nemr Digital Solutions & Al-ElNeMeR Publications*
+*Founder & CEO — El-Nemer Digital Solutions & Al-ElNeMeR Publications*
 
 📧 **Email:** [info@elnemer-ai.com](mailto:info@elnemer-ai.com) &nbsp;|&nbsp;
 📱 **WhatsApp & Direct Line:** [+20 150 755 9911](https://wa.me/201507559911)  
@@ -436,6 +436,6 @@ What seemed unimaginable to traditional publishing houses became a verified engi
 📚 **7M-Book Observatory:** [https://million.elnemer-ai.com](https://million.elnemer-ai.com) &nbsp;|&nbsp;
 ⚖️ **Verification & Audit Lab:** [https://million.elnemer-ai.com/audit/1](https://million.elnemer-ai.com/audit/1)
 
-<sub>© 2026 المهندس محمود بك النمر (Eng. Mahmoud El-Nemr). جميع حقوق الملكية الفكرية والتصميم الهندسي والتأليف محفوظة دولياً.</sub>
+<sub>© 2026 المهندس محمود بك النمر (Eng. Mahmoud El-Nemer). جميع حقوق الملكية الفكرية والتصميم الهندسي والتأليف محفوظة دولياً.</sub>
 
 </div>
